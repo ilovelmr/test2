@@ -1,4 +1,4 @@
-TEST입미돠.
+TEST입미돠delete . notation
 
 
 copied
